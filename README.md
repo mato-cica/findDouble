@@ -1,5 +1,5 @@
 # findDouble
-C++ programming language test
+C++ programming language test. 
 Task to do is:
 
 Given is a vector of integers. The function findDouble(vector<int> values) should find all members of vector wich have double values in the vector. If there is many members with double values then that member should not be counted. Members should be pushed to the terminal (stdout) sorted in ascending order.
