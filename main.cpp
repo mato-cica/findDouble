@@ -3,7 +3,7 @@
 #include <set>
 
 using namespace std;
-void findDoubles(vector<int> values)
+void findDoubles(vector<int>& values)
 {
     set<int> equals;                         // set for members with equals values in vector 'values'
     set<int>::iterator its;                  // iterator for set 'equals'
